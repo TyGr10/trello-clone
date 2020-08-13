@@ -31,3 +31,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## Tyler Groves 8/12/2020
+## Nico Walser 8/12/2020
